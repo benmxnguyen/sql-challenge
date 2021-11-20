@@ -1,5 +1,5 @@
 # sql-challenge
-This assignment allowed me to practice and demonstrate my skills with PostGresSQL.
+This assignment allowed me to practice and demonstrate my skills with PostGreSQL.
 
 About the dataset:
 The dataset contained information regarding a company, its employees, managers, departments, job titles, and salaries.
