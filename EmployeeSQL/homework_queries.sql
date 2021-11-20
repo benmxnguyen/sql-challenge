@@ -1,5 +1,5 @@
 -- Check to tables
-SELECT * FROM departments;
+SELECT * FROM dept_manager;
 
 --List the employee number, last name, first name, sex, and salary.
 SELECT e.emp_no, e.last_name, e.first_name, e.sex, s.salary
